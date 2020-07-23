@@ -8,7 +8,6 @@ const Post = require('../../models/Post');
 const Profile = require('../../models/Profile');
 const { check, validationResult } = require('express-validator');
 const normalize = require('normalize-url');
-const checkObjectId = require('../../middleware/checkObjectId');
 
 // @route   GET api/profile/me
 // @desc    Get current user's Profile
