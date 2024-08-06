@@ -1,6 +1,0 @@
-{
-  "mongoURL": "mongodb+srv://ash123:ash123@cluster0.avqgg.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "fc1c5afe33adb9b874f",
-  "githubClientSecret": "8f3a665336aaaa08f0c800ce19dfbdadf7e41b5d"
-}
